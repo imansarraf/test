@@ -1,0 +1,7 @@
+include fi2fa/f2p-dict.txt
+include fi2fa/f2p-beginning.txt
+include fi2fa/f2p-middle.txt
+include fi2fa/f2p-ending.txt
+include fi2fa/persian-word-freq.txt
+include LICENSE.txt
+include requirements.txt
